@@ -1,0 +1,15 @@
+Package: cometdata
+Type: Package
+Title: Computational Open-source Model for Transplantation data
+Version: 0.0.1
+Authors@R: c(person("Paul", "Gunsalus", email = "gunsalp@ccf.org", role = c("aut","cre"), comment = c(ORCID = "0000-0001-6976-9094")),
+             person("Mark", "Swiler", email = "swilerm@ccf.org", role = "ctb", comment = c(ORCID = "0000-0001-7070-671X")),
+             person("Johnie", "Rose", email = "rosej15@ccf.org", role = "aut", comment = c(ORCID = "0000-0001-7458-9303")),
+             person("Jarrod", "Dalton", email = "daltonj@ccf.org", role = "aut", comment = c(ORCID = "0000-0001-8336-1212")))
+Description: cometdata is simply a repository for the data COMET needs to run correctly.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Depends: 
+    R (>= 2.10)
+RoxygenNote: 7.2.3
